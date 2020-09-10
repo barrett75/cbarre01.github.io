@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-theme: midnight
+theme: jekyll-theme-midnight
 ---
 
 ## Colin Barrett Stats
@@ -12,7 +12,7 @@ theme: midnight
 github linkedin
 
 
-<span style="font-size:8em;"> Hi, I'm Colin
+<span style="font-size:2em;"> Hi, I'm Colin
 
 A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 
