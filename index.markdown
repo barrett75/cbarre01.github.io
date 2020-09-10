@@ -6,11 +6,13 @@ layout: home
 theme: midnight
 ---
 
-Colin Barrett Stats
+## Colin Barrett Stats
+
 
 github linkedin
 
-Hi, I'm Colin
+
+<span style="font-size:8em;"> Hi, I'm Colin
 
 A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 
