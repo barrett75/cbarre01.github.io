@@ -1,15 +1,32 @@
-layout: page
-title: "TEST PAGE"
-permalink: /test/
+testing title
 
 
-#TEST
+this is a new paragraph
+
+This is a header
+
+================
+
+This is a smaller header
+
+-----------------
+
+# H1
+## H2
 
 
-###TEST 
+not a blockquote
+
+> > blockquote
 
 
-TEST
+~~~ python
+
+def test
+    return 42
+~~~
 
 
+* list item
 
+* also list item
