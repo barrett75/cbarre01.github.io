@@ -10,6 +10,7 @@ layout: galleryPage
 
 github linkedin
 
+gallery?
 
 
 Project 1
