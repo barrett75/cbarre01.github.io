@@ -29,7 +29,7 @@ github_username:  cbarre01
 
 # Build settings
 theme: minima
-  skin: dark
+#skin: dark
 plugins:
   - jekyll-feed
 
