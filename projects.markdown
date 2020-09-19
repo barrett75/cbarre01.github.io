@@ -8,14 +8,9 @@ layout: galleryPage
 ## Projects
 
 
-github linkedin
+PROJECT HERE
 
-gallery?
+PROJECT HERE
 
-
-Project 1
-
-Project 2 
-
-Project 3
+PROJECT HERE
 
