@@ -1,5 +1,3 @@
-Experience
-==========
 
 2019 - Consultant for Cal Poly’s Statistical Consulting Service
 ---------------------------------------------------------------
