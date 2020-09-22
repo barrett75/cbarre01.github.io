@@ -52,7 +52,7 @@ header_pages:
  - about.markdown
  - bio.markdown
  - projects.markdown
- - resume.md
+ - resume.markdown
 
 # Build settings
 theme: minima
