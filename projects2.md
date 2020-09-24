@@ -1,5 +1,5 @@
 ---
-layout: galleryPage
+layout: galleryPageDefault
 ---
 
 
